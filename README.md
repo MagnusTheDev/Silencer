@@ -11,3 +11,8 @@ Du skal ændre følgende:
 Linje 6 & 7. Her står der "KOORDINATER", dem skal du ændre til der hvor du vil have det.
 
 Der er ikke nogen permissions eller noget der til, og tilføjer det heller ikke.
+
+
+Andet:
+
+Har kun lavet den til deagle, tilføj flere hvis I vil. Yder ikke support på, hvis I videreudvikler på det.
