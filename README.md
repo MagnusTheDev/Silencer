@@ -1,18 +1,16 @@
-# Silencer
-
 Magnus's silencer script.
 
-Dette script på ikke vidre sælges eller tages credit for.
+This script is no longer for sale or credit.
 
-Når du har downloadet scriptet, går du ind i client.lua, hvor du indsætter dine koordinater hvor der står "KOORDINATER", for at skære det ud i pap og servere det på et sølvfad, læs nedstående.
+Once you have downloaded the script, go to client.lua, where you enter your coordinates where it says "YOURCOORDS", to cut it out of cardboard and serve it on a silver platter, read below.
 
-Du skal ændre følgende:
+You need to change the following:
 
-Linje 6 & 7. Her står der "KOORDINATER", dem skal du ændre til der hvor du vil have det.
+Line 6 & 7. Here it says "COORDINATES", you have to change them to where you want it.
 
-Der er ikke nogen permissions eller noget der til, og tilføjer det heller ikke.
+There is no permissions or anything to it, nor does it add to it.
 
 
-Andet:
+Other things:
 
-Har kun lavet den til deagle, tilføj flere hvis I vil. Yder ikke support på, hvis I videreudvikler på det.
+Have only made it to deagle, add more if you want. Does not provide support if you further develop it.
