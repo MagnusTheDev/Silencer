@@ -1,6 +1,6 @@
 Magnus's silencer script.
 
-This script is no longer for sale or credit.
+This script may not be resold or taken credit for.
 
 Once you have downloaded the script, go to client.lua, where you enter your coordinates where it says "YOURCOORDS", to cut it out of cardboard and serve it on a silver platter, read below.
 
