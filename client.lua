@@ -3,8 +3,8 @@ Citizen.CreateThread(function()
         Citizen.Wait(1) 
         local player = GetPlayerPed(-1)
         local coord = GetEntityCoords(player)
-        if GetDistanceBetweenCoords(KOORDINATER, coord.x, coord.y, coord.z) < 2.0 then
-             DrawText3Ds(KOORDINATER, "~r~[E]~s~ For at få købe silencer")
+        if GetDistanceBetweenCoords(YOURCOORDS, coord.x, coord.y, coord.z) < 2.0 then
+             DrawText3Ds(YOURCOORDS, "~r~[E]~s~ Get a silencer on your deagle")
             if(IsControlJustReleased(1, 51))then   
                 if GetSelectedPedWeapon(player) == GetHashKey("weapon_pistol50") then
                     GiveWeaponComponentToPed(GetPlayerPed(-1), GetHashKey("weapon_pistol50"), GetHashKey("COMPONENT_AT_AR_SUPP_02"))
